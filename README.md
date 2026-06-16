@@ -35,6 +35,10 @@ This project predicts whether a passenger survived the Titanic disaster using Ma
 
 The application is deployed using Streamlit Community Cloud through GitHub.
 
+## Live Demo
+
+🔗 https://vishal-titanic-survival-prediction.streamlit.app
+
 ## Author
 
 Vishal Prasad
