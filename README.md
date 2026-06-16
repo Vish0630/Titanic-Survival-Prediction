@@ -1,5 +1,7 @@
 # Titanic Survival Prediction
 
+<img width="1902" height="866" alt="Screenshot 2026-06-16 103634" src="https://github.com/user-attachments/assets/485d12be-eb16-4f88-9e3f-50cf348e0774" />
+
 ## Project Overview
 
 This project predicts whether a passenger survived the Titanic disaster using Machine Learning. A Logistic Regression model was trained on the Titanic training dataset and deployed using Streamlit.
